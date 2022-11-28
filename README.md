@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dlbrin Azad</h1>
 <h3 align="center">Lecturer & Full Stack Developer</h3>
-<p align="center"> <img src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="dlbrin" width="300px"/> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="dlbrin" width="500px"/> </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=dlbrin" alt="dlbrin" /> </p>
 
